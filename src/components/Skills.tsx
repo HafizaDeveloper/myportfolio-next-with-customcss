@@ -9,7 +9,7 @@ const Skills = () => {
             <div data-aos="zoom-in-up" className='skills-left'>
                 <h2 className='skills-heading'>Technologies I work with</h2>
                 <p className='skills-text'>
-                I have a solid foundation in programming with C++ and C, along with web development skills in HTML, CSS, and Java. I am also experienced in TypeScript and have worked with Flutter for mobile applications, along with proficiency in MS Office tools. Currently, I'm learning Next.js, Tailwind CSS, and JavaScript to further enhance my abilities in building dynamic, responsive applications. I am excited to keep expanding my skills as I grow in the tech field.
+                I have a solid foundation in programming with C++ and C, along with web development skills in HTML, CSS, and Java. I am also experienced in TypeScript and have worked with Flutter for mobile applications, along with proficiency in MS Office tools. Currently, I am learning Next.js, Tailwind CSS, and JavaScript to further enhance my abilities in building dynamic, responsive applications. I am excited to keep expanding my skills as I grow in the tech field.
                 </p>
             </div>
             <div>
